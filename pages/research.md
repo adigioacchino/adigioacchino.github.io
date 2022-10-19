@@ -32,7 +32,7 @@ For each paper I also try to explain what we did and why (aiming at non-expert a
 
 ---------------------
 
-* **_Large deviation of the free energy in the p-spin glass spherical model_**, in collaboration with _Mauro Pastore_ and _Pietro Rotondo_, published in [*Physical Review Research*](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.1.033116) on 2019 ((open access).
+* **_Large deviation of the free energy in the p-spin glass spherical model_**, in collaboration with _Mauro Pastore_ and _Pietro Rotondo_, published in [*Physical Review Research*](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.1.033116) on 2019 (open access).
     > In statistical physics of disordered systems the focus is typically on estimating average values of relevant observables of the system for relevant values of the parameters. Here we used the technical tools developed for spin glasses together with the theory of large deviations to describe fluctuations far away from the average values, in the pedagogical case of the spherical p-spin model. In an attempt to better understand the approximations and assumptions usually done in spin glass computations, we also discuss an alternative view of some technical problems suggesting that a replica symmetry breaking scheme is at play. 
 
 ---------------------
