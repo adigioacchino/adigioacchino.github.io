@@ -4,7 +4,13 @@ title = "Research"
 @def tags = ["syntax", "code"]
 
 # Research interests
+The guiding principle of my research activity is the **interdisciplinarity**: in most of my research efforts, I use ideas and techniques developed in the context of **statistical physics** to model problems coming from different research areas.
 
+As a first example, during my PhD I focused on **combinatorial optimization problems**, and in particular how the embedding on problems in low-dimensional Euclidean space (such as in 1 or 2 dimensions) affects the statistical properties of the solutions.
+
+Then, during my first year of postdoc, I moved toward biological applications and in particular **computational approaches to molecular biology**. This led me to learn how to build **data-driven models** and how to obtain their parameters with **Bayesian inference** techniques, techinques which I consider now a central feature of my profile as a researcher.
+
+More recently, my research is mainly focused on the effects of **virus-host interactions** at the level of their genomes, on topics such as the evolution of the nucleotide usage of viruses after **host shifts**, the determination of nucleotide patterns in viruses recognized by the host **immune system**, and the discovery of **virus-associated molecular patterns** in the human genome.
 
 # Publications
 Here I list my publications in peer-reviewed journals. 
