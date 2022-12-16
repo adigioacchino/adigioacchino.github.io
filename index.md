@@ -22,6 +22,11 @@ My research consists mainly in using methods and ideas from statistical physics 
 
 # News
 
+### * New preprint out! (06 December)
+Our new preprint is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.06.519259v1). We show how to use an implementation of transfer learning on Restricted Boltzmann Machines to analyze the changes between two datasets, and we apply this idea to predict antigen immunogenicity and T-cell receptor specificity, two well-known open problems in immunology. Check it out!
+
+---------------------
+
 ### * Conference IARANA in Paris on 27/28 June
 We organized a conference in Paris about Innate and Adaptive Recognition of Antigens and NeoAntigens, more info at the [conference website](https://sites.google.com/view/qbio-iarana/home-page).
 
