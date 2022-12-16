@@ -4,6 +4,9 @@ Add here global page variables to use throughout your website.
 +++
 author = "Andrea Di Gioacchino"
 mintoclevel = 2
+website_title = "Andrea Di Gioacchino"
+website_descr = "Andrea Di Gioacchino's personal website"
+website_url   = "https://adigioacchino.github.io/"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
@@ -12,10 +15,10 @@ mintoclevel = 2
 ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
-generate_rss = false
-website_title = "Franklin Template"
-website_descr = "Example website using Franklin"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+generate_rss = true
+generate_robots = true
+generate_sitemap = true
+
 +++
 
 <!--
