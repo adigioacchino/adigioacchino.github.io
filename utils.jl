@@ -14,3 +14,8 @@ function lx_baz(com, _)
   # do whatever you want here
   return uppercase(brace_content)
 end
+
+function hfun_cpfiletosite(filenamevec)
+  cp(filenamevec[1], joinpath("__site", filenamevec[1]))
+  return nothing
+end
