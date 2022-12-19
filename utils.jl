@@ -17,5 +17,5 @@ end
 
 function hfun_cpfiletosite(filenamevec)
   cp(filenamevec[1], joinpath("__site", filenamevec[1]))
-  return nothing
+  return ""
 end
