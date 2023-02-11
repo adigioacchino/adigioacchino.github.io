@@ -22,7 +22,7 @@ My research consists mainly in using methods and ideas from statistical physics 
 
 # News
 
-### * Talk at JIPS conference in Paris (11 February 2023)
+### * Talk at JIPS conference in Paris
 I will give a talk on our statistical physics techniques applied to the study of pressures shaping nucleotide usage in viruses and their hosts, at the _Journées Interdisciplinaires de Physique Statistique_ (JIPS) conference on March 30$\phantom{}^{\text{th}}$! Registration and more info are available in the [conference website](https://sites.google.com/view/lptms-jips/home).
 
 ---------------------
