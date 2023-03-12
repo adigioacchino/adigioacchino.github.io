@@ -21,6 +21,12 @@ My research consists mainly in using methods and ideas from statistical physics 
 
 
 # News
+### * New preprint out! (12  December 2022)
+Our new preprint is available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.04.467016v2). 
+We analyze the human genome using statistical-physics inspired computational tools to detect regions (which in most cases are in the so-called "non-coding genome") that have viral-like patterns, and that could play a role in interacting with the innate immune system. We also discuss their evolution within and outside the human genome, pointing out cases where possibly immunogenic patterns seems to be conserved during genome evolution or across organisms.
+Check it out!
+
+---------------------
 
 ### * Talk at JIPS conference in Paris
 I will give a talk on our statistical physics techniques applied to the study of pressures shaping nucleotide usage in viruses and their hosts, at the _Journées Interdisciplinaires de Physique Statistique_ (JIPS) conference on March 30$\phantom{}^{\text{th}}$! Registration and more info are available in the [conference website](https://sites.google.com/view/lptms-jips/home).
