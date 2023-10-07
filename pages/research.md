@@ -10,12 +10,26 @@ As a first example, during my PhD I focused on **combinatorial optimization prob
 
 Then, during my first year of postdoc, I moved toward biological applications and in particular **computational approaches to molecular biology**. This led me to learn how to build **data-driven models** and how to obtain their parameters with **Bayesian inference** techniques, tools which I consider now a central feature of my profile as a researcher.
 
-More recently, my research is mainly focused on the effects of **virus-host interactions** at the level of their genomes, on topics such as the evolution of the nucleotide usage of viruses after **host shifts**, the determination of nucleotide patterns in viruses recognized by the host **immune system**, and the discovery of **virus-associated molecular patterns** in the human genome.
+Successively the main focus of my research shifted towards exploring effects of **virus-host interactions** at the level of their genomes, on topics such as the evolution of the nucleotide usage of viruses after **host shifts**, the determination of nucleotide patterns in viruses recognized by the host **immune system**, and the discovery of **virus-associated molecular patterns** in the human genome.
+
+More recently I started working on viruses of bacteria, the so-called bacteriophages or phages, and on machine learning methods to design optimal phages and phage cocktails for **phage therapy**.
 
 # Publications
-Here I list my publications in peer-reviewed journals. 
+Here I list my scientific publications, whether they are actually published in peer-reviewed journals or only available in preprint servers. 
 
-For each paper I also try to explain what we did and why (aiming at non-expert audience), without trying to sell anything to anyone. ;) 
+For each paper I also try to explain briefly what we did and why. 
+
+---------------------
+* **_Designing molecular RNA switches with Restricted Boltzmann machines_**, in collaboration with _Jorge Fernandez-de-Cossio-Diaz, Pierre Hardouin, Francois-Xavier Lyonnet du Moutier, Bertrand Marchand, Yann Ponty, Bruno Sargueil, Remi Monasson_, and _Simona Cocco_, available in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.05.10.540155.abstract).
+    > Machine learning tools can be used to discover meaningful patterns in biological sequences, such as RNA molecules, that are related to the molecule functions. In this work we show how to use a specific type of machine learning tool, called Restricted Boltzmann Machines, to design RNA molecules that can switch between two different structures, and we show that the designed molecules are able to perform the desired function in vitro. 
+
+---------------------
+* **_Repeats Mimic Pathogen-Associated Patterns Across a Vast Evolutionary Landscape_**, in collaboration with _Petr Šulc, Alexander Solovyov, Sajid A Marhon, Siyu Sun, Håvard T Lindholm, Raymond Chen, Amir Hosseini, Hua Jiang, Bao-Han Ly, Parinaz Mehdipour, Omar Abdel-Wahab, Nicolas Vabret, John LaCava, Daniel D De Carvalho Rémi Monasson, Simona Cocco_, and _Benjamin D Greenbaum_, available in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.11.04.467016v2.abstract).
+    > In this work we analyze the human genome using statistical-physics inspired computational tools to detect regions (which in most cases are in the so-called "non-coding genome") that have viral-like patterns, and that could play a role in interacting with the innate immune system. We also discuss their evolution within and outside the human genome, pointing out cases where possibly immunogenic patterns seems to be conserved during genome evolution or across organisms. 
+
+---------------------
+* **_A transfer-learning approach to predict antigen immunogenicity and T-cell receptor specificity_**, in collaboration with _Barbara Bravi, Andrea Di Gioacchino, Jorge Fernandez-de-Cossio-Diaz, Aleksandra M Walczak, Thierry Mora, Simona Cocco_, and _Rémi Monasson_, published in [*eLife*](https://elifesciences.org/articles/85126) on 2023 (open access).
+    > In this work we show how to use an implementation of transfer learning using Restricted Boltzmann Machines to analyze the changes between two datasets, and we apply this idea to predict antigen immunogenicity and T-cell receptor specificity, two well-known open problems in immunology.
 
 ---------------------
 * **_Generative and interpretable machine learning for aptamer design and analysis of in vitro sequence selection_**, in collaboration with _Jonah Procyk, Marco Molari, Jonh S Schreck, Yu Zhou, Yan Liu, Rémi Monasson, Simona Cocco_, and _Petr Šulc_, published in [*PLoS Computational Biology*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010561) on 2022 (open access).
@@ -73,3 +87,5 @@ For each paper I also try to explain what we did and why (aiming at non-expert a
     > The fractional quantum Hall effect (FQHE) is a physical phenomenon described in 1982, which is still the topic of active research in present days. Here we contribute to this line of research, showing how to use a single framework to describe two distinct cases of the simplest FQHE theory (the _bosonic_ and _fermionic_ Laughlin wave functions), and elucidating where (mathematically speaking) the differences in these two cases come from.
 
 
+# Conferences
+I co-organized a conference in Paris about Innate and Adaptive Recognition of Antigens and NeoAntigens, more info at the [conference website](https://sites.google.com/view/qbio-iarana/home-page).

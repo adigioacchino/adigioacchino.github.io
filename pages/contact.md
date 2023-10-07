@@ -7,11 +7,7 @@ title = "Contact"
 
 Email: andrea.dgioacchino[at]gmail.com
 
-Email (institutional): andrea.digioacchino[at]phys.ens.fr
-
-Address (office): Laboratoire de physique de l'École Normale Supérieure,
-24 rue Lhomond, 75005 Paris,
-room GH312.
+Email (work): andrea[at]phagos.org
 
 
 # Other pages
