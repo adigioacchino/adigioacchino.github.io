@@ -13,5 +13,7 @@ Together with our amazing team, I analyze data from our experiments and develop 
 
 [Here](/pages/research) a more detailed discussion of my scientific interests and results.
 
+If you landed here while looking for the **CNRS postdoc salary reference website**, a project I am working on with [Mauro Pastore](https://www.linkedin.com/in/mauro-pastore-781a28246/), it is this way: [https://adigioacchino.github.io/CNRSPostdocSalary](https://adigioacchino.github.io/CNRSPostdocSalary).
+
 &nbsp;
 &nbsp;
