@@ -5,7 +5,7 @@ title = "Contact"
 
 # Contact
 
-Email: andrea.dgioacchino[at]gmail.com
+Email (personal): andrea.dgioacchino[at]gmail.com
 
 Email (work): andrea[at]phagos.org
 
