@@ -18,6 +18,7 @@ More recently I started working on viruses of bacteria, the so-called bacterioph
 Here I list my scientific publications, whether they are actually published in peer-reviewed journals or only available in preprint servers. 
 
 For each paper I also try to explain briefly what we did and why. 
+
 ---------------------
 * **_Deciphering the code of viral-host adaptation through maximum entropy models_**, in collaboration with _Benjamin D Greenbaum, Remi Monasson_, and _Simona Cocco_, available in [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.10.28.564530v1).
     > In this work, we investigate virus' genetic changes when they jump from one host to another, a critical topic in the study of emerging pathogens. We found that viruses from various families have unique strategies for tuning their nucleotide usage when they infect the same host, and this insight can be leveraged to predict which host a viral sequence came from, even when the sequence is very different from any sequence known. We also demonstrated how this information can be used to design better RNA vaccines and other nucleic acid-based therapies, and to track the evolution of viruses after an host jump.
